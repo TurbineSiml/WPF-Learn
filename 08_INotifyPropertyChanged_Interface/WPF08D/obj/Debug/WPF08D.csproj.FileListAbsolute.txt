@@ -1,0 +1,30 @@
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\bin\Debug\WPF08D.exe.config
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\bin\Debug\WPF08D.exe
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\bin\Debug\WPF08D.pdb
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.csprojResolveAssemblyReference.cache
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\MainWindow.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\App.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D_MarkupCompile.cache
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D_MarkupCompile.lref
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\MainWindow.baml
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.g.resources
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.Properties.Resources.resources
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.csproj.GenerateResource.cache
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.exe
+C:\Users\Denis Panjuta\source\repos\WPF08D\WPF08D\obj\Debug\WPF08D.pdb
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\bin\Debug\WPF08D.exe.config
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\bin\Debug\WPF08D.exe
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\bin\Debug\WPF08D.pdb
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.csprojAssemblyReference.cache
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\MainWindow.g.cs
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\App.g.cs
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D_MarkupCompile.cache
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D_MarkupCompile.lref
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\MainWindow.baml
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.g.resources
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.Properties.Resources.resources
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.csproj.GenerateResource.cache
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.csproj.CoreCompileInputs.cache
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.exe
+D:\CProjekte\WPF\WPF08_INotifyPropertyChanged_Interface\WPF08D\obj\Debug\WPF08D.pdb

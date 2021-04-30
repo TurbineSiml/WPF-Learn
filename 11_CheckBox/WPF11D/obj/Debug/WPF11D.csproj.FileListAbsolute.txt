@@ -1,0 +1,15 @@
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\bin\Debug\WPF11D.exe.config
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\bin\Debug\WPF11D.exe
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\bin\Debug\WPF11D.pdb
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.csprojResolveAssemblyReference.cache
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\MainWindow.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\App.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D_MarkupCompile.cache
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D_MarkupCompile.lref
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\MainWindow.baml
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.g.resources
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.Properties.Resources.resources
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.csproj.GenerateResource.cache
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.exe
+C:\Users\Denis Panjuta\source\repos\WPF11D\WPF11D\obj\Debug\WPF11D.pdb

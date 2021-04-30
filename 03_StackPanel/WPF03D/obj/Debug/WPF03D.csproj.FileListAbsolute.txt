@@ -1,0 +1,30 @@
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\bin\Debug\WPF03D.exe.config
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\bin\Debug\WPF03D.exe
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\bin\Debug\WPF03D.pdb
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.csprojResolveAssemblyReference.cache
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\MainWindow.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\App.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D_MarkupCompile.cache
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D_MarkupCompile.lref
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\MainWindow.baml
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.g.resources
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.Properties.Resources.resources
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.csproj.GenerateResource.cache
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.exe
+C:\Users\Denis Panjuta\source\repos\WPF03D\WPF03D\obj\Debug\WPF03D.pdb
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\bin\Debug\WPF03D.exe.config
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\bin\Debug\WPF03D.exe
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\bin\Debug\WPF03D.pdb
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.csprojAssemblyReference.cache
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\MainWindow.g.cs
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\App.g.cs
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D_MarkupCompile.cache
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D_MarkupCompile.lref
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\MainWindow.baml
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.g.resources
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.Properties.Resources.resources
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.csproj.GenerateResource.cache
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.csproj.CoreCompileInputs.cache
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.exe
+D:\CProjekte\Lehrgang\WPF\StackPanel\WPF03D\obj\Debug\WPF03D.pdb

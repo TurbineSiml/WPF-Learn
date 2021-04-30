@@ -1,0 +1,29 @@
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\bin\Debug\WPF09D.exe.config
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\bin\Debug\WPF09D.exe
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\bin\Debug\WPF09D.pdb
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\MainWindow.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\App.g.cs
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D_MarkupCompile.cache
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D_MarkupCompile.lref
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\MainWindow.baml
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D.g.resources
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D.Properties.Resources.resources
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D.csproj.GenerateResource.cache
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D.exe
+C:\Users\Denis Panjuta\source\repos\WPF09D\WPF09D\obj\Debug\WPF09D.pdb
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\bin\Debug\WPF09D.exe.config
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\bin\Debug\WPF09D.exe
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\bin\Debug\WPF09D.pdb
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.csprojAssemblyReference.cache
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\MainWindow.g.cs
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\App.g.cs
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D_MarkupCompile.cache
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D_MarkupCompile.lref
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\MainWindow.baml
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.g.resources
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.Properties.Resources.resources
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.csproj.GenerateResource.cache
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.csproj.CoreCompileInputs.cache
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.exe
+D:\CProjekte\WPF\WPF09_ListBox\WPF09D\obj\Debug\WPF09D.pdb

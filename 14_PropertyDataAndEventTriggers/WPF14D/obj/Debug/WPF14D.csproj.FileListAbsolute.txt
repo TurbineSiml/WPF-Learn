@@ -1,0 +1,14 @@
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\bin\Debug\WPF14D.exe.config
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\bin\Debug\WPF14D.exe
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\bin\Debug\WPF14D.pdb
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\MainWindow.g.cs
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\App.g.cs
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D_MarkupCompile.cache
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D_MarkupCompile.lref
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\MainWindow.baml
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D.g.resources
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D.Properties.Resources.resources
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D.csproj.GenerateResource.cache
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D.csproj.CoreCompileInputs.cache
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D.exe
+c:\users\denis panjuta\source\repos\WPF14D\WPF14D\obj\Debug\WPF14D.pdb
